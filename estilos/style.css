@@ -72,14 +72,14 @@ body {
 .link_google_maps{
     padding-top: 2%;
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 500%;
+    font-size: 150%;
     display: flex;
     flex-direction: column;
 }
 .link_google_maps:hover{
     text-decoration: none; 
     transition: color  0.3s, font-size 0.3s; 
-    font-size: 600%;  
+    font-size: 200%;
     
 }
 .link_google_forms{
