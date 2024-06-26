@@ -108,13 +108,13 @@ body {
     color: #ffffff;
     padding-top: 2%;
     font-family: Helvetica, Arial, sans-serif;
-    display: flex; 
-    justify-content: flex-end; 
-    align-items: center; 
-    margin-right: 13%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    /* margin-right: 13%; */
     position: absolute;
     top: 150%;
-    left: 82%;
+    left: 72%;
 }
 
 
