@@ -75,7 +75,7 @@ body {
 .link_google_maps{
     padding-top: 2%;
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 500%;
+    font-size: 150%;
     display: flex;
     flex-direction: column;
 }
@@ -104,7 +104,7 @@ body {
     
 }
 .acordate_prenda{
-    font-size: 550%;
+    font-size: 150%;
     color: #ffffff;
     padding-top: 2%;
     font-family: Helvetica, Arial, sans-serif;
@@ -113,7 +113,7 @@ body {
     align-items: center; 
     margin-right: 13%;
     position: absolute;
-    top: 135%;
+    top: 150%;
     left: 82%;
 }
 
