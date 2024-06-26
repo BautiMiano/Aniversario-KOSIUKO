@@ -82,7 +82,7 @@ body {
 .link_google_maps:hover{
     text-decoration: none; 
     transition: color  0.3s, font-size 0.3s; 
-    font-size: 600%;  
+    font-size: 180%;  
     
 }
 .link_google_forms{
