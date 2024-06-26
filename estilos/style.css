@@ -104,7 +104,7 @@ body {
     
 }
 .acordate_prenda{
-    font-size: 150%;
+    font-size: 125%;
     color: #ffffff;
     padding-top: 2%;
     font-family: Helvetica, Arial, sans-serif;
@@ -113,7 +113,7 @@ body {
     align-items: center;
     /* margin-right: 13%; */
     position: absolute;
-    top: 150%;
+    top: 140%;
     left: 72%;
 }
 
