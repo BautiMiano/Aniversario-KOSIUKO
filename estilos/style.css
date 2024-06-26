@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
 }
@@ -11,7 +12,9 @@ a {
 body {
     background-color: #000;
 }
-
+@media (min-width: 1024px) and (max-width: 2559px) {
+   
+}
 @keyframes changeSide {
     0% {
         transform: scaleX(1);
@@ -72,14 +75,14 @@ body {
 .link_google_maps{
     padding-top: 2%;
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 150%;
+    font-size: 500%;
     display: flex;
     flex-direction: column;
 }
 .link_google_maps:hover{
     text-decoration: none; 
     transition: color  0.3s, font-size 0.3s; 
-    font-size: 200%;
+    font-size: 600%;  
     
 }
 .link_google_forms{
@@ -91,7 +94,7 @@ body {
     align-items: center; 
     margin-right: 13%;
     position: absolute;
-    top: 115%;
+    top: 135%;
     left: 82%;
 }
 .link_google_forms:hover{
@@ -99,6 +102,19 @@ body {
     transition: color  0.3s, font-size 0.3s; 
     font-size: 200%;  
     
+}
+.acordate_prenda{
+    font-size: 550%;
+    color: #ffffff;
+    padding-top: 2%;
+    font-family: Helvetica, Arial, sans-serif;
+    display: flex; 
+    justify-content: flex-end; 
+    align-items: center; 
+    margin-right: 13%;
+    position: absolute;
+    top: 135%;
+    left: 82%;
 }
 
 
@@ -111,3 +127,4 @@ body {
     justify-content: center;
     align-items: center;
 }
+
